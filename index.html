@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet"  href="style.css">
+       <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+        <script  src="https://unpkg.com/vue/dist/vue.js"></script>
+        <script src="app.js"></script>
+    </head>
+    <body>
+        <div id="app">
+           <p v-if="isLoading">Loading</p>
+          <vue-cart :cart="cart" title="Shopping Cart" type="shoppingCart" v-on:itemchangedoncart="handleItemChange"></vue-cart>
+          <vue-cart :cart="saved" title="Save for Later" type="savedLater" v-on:itemchangedoncart="handleItemChange"></vue-cart>
+        </div>
+        
+    </body>
+</html>

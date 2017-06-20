@@ -1,0 +1,43 @@
+{
+    "cart":[
+        {
+            "url":"google.com",
+            "image":"https://cdn.shopify.com/s/files/1/0377/2037/products/Mens37.Front_e0435337-82ea-4472-86aa-0e34e1b2c3e8_large.jpg?v=1490306671",
+            "name":"Mens Quartz Analog Roman Numeral Watch",
+            "seller":"Gokhan",
+            "isAvaiable":false,
+            "isEligible":false,
+            "price":15.52
+        },
+        {
+            "url":"google.com",
+            "image":"https://cdn.shopify.com/s/files/1/0377/2037/products/WhiteBlackTanLeather.Front_EDIT_large.jpg?v=1490306539",
+            "name":"Aposon Men's Digital Electronic Waterproof LED Sport Watch",
+            "seller":"Gokhan",
+            "isAvaiable":true,
+            "isEligible":false,
+            "price":52.54
+        },
+        {
+            "url":"google.com",
+            "image":"https://cdn.shopify.com/s/files/1/0377/2037/products/WhiteTanLeather.Front_1024x1024.jpg?v=1490305339",
+            "name":"Padgene DZ09 Bluetooth Smart Watch ",
+            "seller":"Gokhan",
+            "isAvaiable":false,
+            "isEligible":true,
+            "price":35.74
+            
+        }
+    ],
+    "saved":[
+        {
+             "url":"google.com",
+            "image":"http://images.esellerpro.com/2295/I/305/71/1101dw1.jpg",
+            "name":"Casio Men's MQ24-1E Black Resin Watch",
+            "seller":"Gokhan",
+            "isAvaiable":true,
+            "isEligible":true,
+            "price":24.32
+        }
+    ]
+}
